@@ -1,7 +1,6 @@
 ## Aymen Hamani
 
 Full-stack engineer, TypeScript and Node. Based in El Eulma, Algeria.
-Willing to relocate to Algiers.
 
 **Most of my work is not here.** I build the ordering platform at a pharmaceutical
 distributor, and it lives in private company repositories. What that work involves:
