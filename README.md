@@ -34,9 +34,3 @@ PostgreSQL, Angular, Flutter/Dart, Docker, NGINX, PM2, Prometheus, GitHub Action
 [LinkedIn](https://www.linkedin.com/in/aymen-hamani-214506233/) ·
 hamaniaymen123@gmail.com
 ```
-
-## Follow-ups
-
-- **DDD and hexagonal architecture are confirmed real** by the owner (2026-09-02) and defensible in interview, so they are claimed here. **They are missing from the Storyous CV**, which is already submitted and cannot be changed. Add them to the next CV build and use them as an interview asset: an engineer who asks "how do you structure a Node service" gets a concrete answer instead of a general one.
-- The bio line on the profile itself already reads "Software Engineer @PharmaInvest-SPA | Backend Software Engineer | Node.js & TypeScript | DDD & Hexagonal Architecture", which is consistent with the above.
-- Be ready to walk through one ADR that shows the port/adapter boundary. The SAP integration is the strongest example, since it is the clearest case of an external system that had to stay an adapter.
