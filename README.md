@@ -33,4 +33,3 @@ PostgreSQL, Angular, Flutter/Dart, Docker, NGINX, PM2, Prometheus, GitHub Action
 
 [LinkedIn](https://www.linkedin.com/in/aymen-hamani-214506233/) ·
 hamaniaymen123@gmail.com
-```
